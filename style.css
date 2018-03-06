@@ -67,7 +67,6 @@ header {
 	header .container {
 		display: flex;
 		justify-content: space-between;
-		flex-wrap: wrap;
 		align-items: center;
 		height: 70px;
 		padding: 15px 10px;
